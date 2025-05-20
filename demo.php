@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Xin chao ca nha</h1>
+    <p>Day la noi dung cua trang web.</p>
 </body>
 </html>
